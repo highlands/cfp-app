@@ -11,7 +11,7 @@ $white: #fff;
 $black: #000;
 
 //Triad Color Theory
-$ruby-central-red: #91181C;
+$highlands-blue: #4786a5;
 $dark-red: #440407;
 $gold: #9E9B2A;
 $dark-blue: #063E5E;
@@ -26,7 +26,7 @@ $gray-light:             #b2afaa !default; //lighten($gray-base, 46.7%) !default
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
 $beige:                  #f9f6f1;
 
-$brand-primary:         $ruby-central-red !default; //darken(#428bca, 6.5%) !default; // #337ab7
+$brand-primary:         $highlands-blue !default; //darken(#428bca, 6.5%) !default; // #337ab7
 $brand-success:         $green !default;
 $brand-info:            $bright-blue !default;
 $brand-info-alt:        $dark-blue !default;
